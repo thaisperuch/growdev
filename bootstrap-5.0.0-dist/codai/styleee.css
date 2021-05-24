@@ -1,0 +1,98 @@
+body{ 
+    background-color: rgba(184, 100, 240, 0.479) !important;
+}
+
+.container-card{
+    padding: 50px 0px 50px 0px; 
+    margin-bottom: 2em;
+}
+
+.img-perfil-card {
+    display: flex; 
+    justify-content:center
+}
+
+.hr{
+    height: 1px; 
+    background-color: black;
+    width: 100%;
+}
+
+.card-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 1em;
+}
+
+.card-perfil{
+    background-color: #701bc0 !important;
+    box-shadow: 0px 0px 5px #05050562;
+}
+
+.botoes-card {
+    display: flex; 
+    justify-content: center;
+}
+
+#btn-sobre {
+    border-radius: 20px; 
+    padding: 5px 25px;
+    background-color: black !important;
+    color: #ffffff !important;
+    font-weight: 600;
+}
+
+#btn-projeto{
+    border: solid 2px black; 
+    border-radius: 20px;
+    padding: 5px 25px;
+    font-weight: 600;
+}
+
+.icon-redes-sociais {
+    text-align: center; 
+    padding: 10px
+}
+
+.title-text {
+    margin-top: 1em;
+    font-weight: 700;
+}
+
+.title-subtitle{
+    margin: 1em 0;
+}
+
+.text{
+    padding: 5px 17px;
+}
+
+.links-redes-sociais{
+    text-decoration: none;
+}
+
+.links-redes-sociais i {
+    color: black !important;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.btn-card{
+    color:black !important;
+}
+
+.footer-elementos {
+    display:flex; 
+    justify-content:space-between;
+}
+
+.sobre{
+    margin-bottom:  1.5em;
+}
+
+.rodape{
+    text-align: center !important;
+    margin-bottom: 10px;
+}
+
